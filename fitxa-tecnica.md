@@ -12,9 +12,16 @@ Instal·lar i configurar Visual Studio Code per utilitzar-lo com a eina de treba
 
 ## Procediment
 
-1. Descarregar Visual Studio Code.
-2. Instal·lar el programa.
-3. Obrir Visual Studio Code.
+1. Accedir al lloc web oficial de Visual Studio Code.
+2. Descarregar la versió adequada per al sistema operatiu.
+3. Executar l'instal·lador.
+4. Seguir els passos de l'assistent d'instal·lació.
+5. Obrir Visual Studio Code.
+6. Crear una carpeta de treball.
+7. Obrir la carpeta amb Visual Studio Code.
+8. Crear un fitxer Markdown.
+9. Escriure contingut de prova.
+10. Obrir la previsualització del document amb `Ctrl+Shift+V`.
 
 ## Comprovacions
 
