@@ -1,4 +1,4 @@
-# Fitxa tècnica: Instal·lació i configuració de Visual Studio Code
+# Fitxa tècnica: Instal·lació i configuració de Visual Studio Code en Windows
 
 ## Objectiu
 
