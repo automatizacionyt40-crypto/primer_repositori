@@ -40,6 +40,9 @@ L'objectiu és explicar la instal·lació i configuració bàsica de Visual Stud
 
 - [Documentació oficial de Visual Studio Code](https://code.visualstudio.com/docs)
 
+## Flux de treball amb Git
+
+El flux de treball bàsic consisteix en revisar els canvis amb `git status` i `git diff`, preparar-los amb `git add`, guardar-los amb `git commit` i consultar l'historial amb `git log`.
 ## Imatge
 
 ![Visual Studio Code](https://code.visualstudio.com/assets/images/code-stable.png)
