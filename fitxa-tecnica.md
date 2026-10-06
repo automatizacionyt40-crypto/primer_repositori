@@ -40,13 +40,9 @@ L'objectiu és explicar la instal·lació i configuració bàsica de Visual Stud
 
 - [Documentació oficial de Visual Studio Code](https://code.visualstudio.com/docs)
 
-## Flux de treball amb Git
-
-El flux de treball bàsic consisteix en revisar els canvis amb `git status` i `git diff`, preparar-los amb `git add`, guardar-los amb `git commit` i consultar l'historial amb `git log`.
 ## Imatge
 
-![Visual Studio Code](https://code.visualstudio.com/assets/images/code-stable.png)
-
+![Visual Studio Code](img/Visual_Studio_Code_1.35_icon.svg.webp)
 
 ## Comanda
 
@@ -54,14 +50,16 @@ Per comprovar l'estat del repositori:
 
 ```bash
 git status
+```
 
-2. Guarda con **Ctrl + S**.
+## Flux de treball amb Git
 
-3. Abre el terminal de VS Code:
-   - **Terminal → New Terminal**
-   - o `Ctrl + ñ` (según tu teclado).
+El flux de treball bàsic consisteix en revisar els canvis amb `git status` i `git diff`, preparar-los amb `git add`, guardar-los amb `git commit` i consultar l'historial amb `git log`.
 
-4. En el terminal, ejecuta **uno por uno**:
-
-```bash
-git status
+1. Modificar el document.
+2. Revisar els canvis amb `git status`.
+3. Comprovar els canvis amb `git diff`.
+4. Preparar els canvis amb `git add`.
+5. Crear un commit amb `git commit`.
+6. Consultar l'historial amb `git log --oneline`.
+7. Enviar els canvis amb `git push`.
